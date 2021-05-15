@@ -1,4 +1,4 @@
-[imagen](https://user-images.githubusercontent.com/83742525/117239546-9f3afa00-adf4-11eb-9326-88be3b1c5393.png)
+1309 × 300
 **Tarea:** Crear una gràfica compartavia de rendimiento entre Cython y Python
 
 **Profesor:** John Jairo Corredor
